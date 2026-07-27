@@ -1,1 +1,0 @@
-hello everyone, thanks for downloading this app its a small mini project of my collage. about this, it runs on python 3.11 version, try on latest. full access to modify and use as you required.
